@@ -1,0 +1,2 @@
+@chcp 65001
+oscript srvupdate.os --commitid "commitid" --project "projectname" --edt "edt@2022.1.1" --platform "C:\Program Files\1cv8\%version%\bin\1cv8.exe" --base "/S servername\basename" --usr "user" --pwd "password"
